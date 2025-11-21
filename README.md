@@ -15,7 +15,17 @@ A focused MERN + Material UI application that lets students send a single, 24-ho
 - **Frontend:** React (Vite) + Material UI, Axios, React Router
 - **Backend:** Node.js, Express, MongoDB/Mongoose, JWT auth, SSE notification stream
 
-## Getting Started
+## 🚀 Deployment
+
+Ready to deploy? We've got you covered with comprehensive deployment guides:
+- **[Deployment Summary](DEPLOYMENT_SUMMARY.md)** - Overview of deployment setup and architecture
+- **[Quick Start Guide](QUICKSTART_DEPLOY.md)** - Get deployed in 10 minutes
+- **[Detailed Guide](DEPLOYMENT.md)** - Complete documentation with troubleshooting
+- **[Deployment Checklist](DEPLOYMENT_CHECKLIST.md)** - Track your progress
+
+**TL;DR:** Backend → Render | Frontend → Vercel | Database → MongoDB Atlas
+
+## Getting Started (Local Development)
 
 ### 1. Configure the API
 
